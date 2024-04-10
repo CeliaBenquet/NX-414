@@ -133,4 +133,4 @@ dmypy.json
 
 week6/IT_data.h5
 
-*activations*.npy
+*.npy
