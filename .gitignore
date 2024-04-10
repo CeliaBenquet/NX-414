@@ -132,3 +132,5 @@ dmypy.json
 .ipynb_checkpoints
 
 week6/IT_data.h5
+
+*activations*.npy
