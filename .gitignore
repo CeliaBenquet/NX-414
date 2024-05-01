@@ -134,3 +134,5 @@ dmypy.json
 week6/IT_data.h5
 
 *.npy
+
+*.h5
