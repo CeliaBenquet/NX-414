@@ -20,4 +20,4 @@ The content of our work can be found in the corresponding folder.
 Our 1-page report is in the main folder: ```mini_project.pdf```.
 
 ### 5. Best model evaluation
-A ```test.ipynb``` is available to evaluate our best-performing model, in the main folder. To run it, you can run the whole notebook. We already ran the notebook and saved the trained model as ```resnet152_best_model.pth```.
+A ```test.ipynb``` is available to evaluate our best-performing model, in the main folder. To run it, you can run the whole notebook. We already ran the notebook and saved the trained model as ```resnet152_best_model.pth``` on the following [Google Drive](https://drive.google.com/file/d/1iX0VgWVUenl-zPBcKB14YX7irXCS0mXl/view?usp=sharing).
